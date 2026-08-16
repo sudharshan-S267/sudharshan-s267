@@ -23,7 +23,7 @@
 
 🎓 Computer Science & Engineering student at **KPR Institute of Engineering and Technology (KPRIET)**
 
-📊 CGPA: **9.5 / 10**
+📊 CGPA: **9.39 / 10**
 
 💡 Passionate about **Artificial Intelligence, Web Development and Data Analytics**
 
