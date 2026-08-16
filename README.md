@@ -89,6 +89,8 @@
 
 🥇 **1st Place** — Digital Escape Room Technical Event
 
+🥇 **1st Place** —Fast and Curious Event 
+
 🥉 **3rd Place** — Science Day Paper Presentation
 
 🌍 **Participant** — International 360-3.0 Hackathon
